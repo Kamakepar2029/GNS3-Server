@@ -1,3 +1,4 @@
+[![Docker Repo](/docker-preview.png)](https://hub.docker.com)
 # GNS3 Server Centos V3
 #### Compiled by Kamakepar
 
@@ -25,7 +26,7 @@ Second ip will be that you need to connect
 #### Password: root@123
 
 ## Routers availible
-[![Avalible images](/images.png)]
+![Avalible images](/images.png)
 
 ## Modified Packages
 * ubridge (from libpcap.so.0.8)
