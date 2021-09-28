@@ -1,4 +1,3 @@
-[![docker__header](/docker-preview.png)](https://hub.docker.com)
 # GNS3 Server Centos V3
 #### Compiled by Kamakepar
 
