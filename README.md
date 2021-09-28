@@ -4,7 +4,6 @@
 
 ## About
 Here are some addons. Like enabled sshd, enabled GNS3-Server and custom Working ubridge. Also here is Qemu installed
-[![Docker Repo](https://d36jcksde1wxzq.cloudfront.net/be7833db9bddb4494d2a7c3dd659199a.png)](https://hub.docker.com/r/kamakepar/gns3-server-centos-v3)
 
 ## How to use it.
 FIrst, download it
@@ -43,3 +42,5 @@ Second ip will be that you need to connect
 * Libvirt
 * Qemu-Kvm
 * vpcs
+
+[![Docker Repo](https://d36jcksde1wxzq.cloudfront.net/be7833db9bddb4494d2a7c3dd659199a.png)](https://hub.docker.com/r/kamakepar/gns3-server-centos-v3)
